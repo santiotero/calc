@@ -1,0 +1,63 @@
+/* 
+	Estilo - Santiago Otero
+*/
+#contenedor{
+	width: 450px;
+	background-color: #5DADE2;
+	text-align: center;
+}
+#numeros{
+	font-family: Verdana;
+    font-size: 22pt;
+    width: 330px;
+    margin-top: 4%;
+    font-weight: bold;
+}
+
+._valores{
+	font-family: Verdana;
+	background-color: #1ABC9C;
+	font-size: 22pt;
+	font-weight: bold;
+	color: #FFFFFF;
+	width: 80px;
+	height: 80px;
+}
+
+._operaciones{
+	font-family: Verdana;
+	background-color: #F39C12;
+	font-size: 22pt;
+	font-weight: bold;
+	color: #FFFFFF;
+	width: 80px;
+	height: 80px;
+}
+
+#total{
+	font-family: Verdana;
+	background-color: #E74C3C;
+	font-size: 22pt;
+	font-weight: bold;
+	color: #FFFFFF;
+	width: 80px;
+	height: 80px;
+}
+
+#borrar{
+	font-family: Verdana;
+	background-color: #884EA0;
+	font-size: 22pt;
+	font-weight: bold;
+	color: #FFFFFF;
+	width: 80px;
+	height: 80px;
+}
+
+#autor{
+	font-family: Verdana;
+	color: #000000;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: center;
+}
